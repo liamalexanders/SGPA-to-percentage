@@ -8,13 +8,16 @@ This repository contains explanations, examples, formulas, and resources related
 
 # 📘 Introduction
 
-Many students often struggle to convert their SGPA into percentage because universities use different grading systems and conversion methods.
+Many students often struggle to convert their SGPA into percentage because different universities use different grading systems and conversion methods.
 
-This project aims to simplify:
+This project helps simplify:
 - SGPA calculation
 - Percentage conversion
 - CGPA understanding
 - Academic grading methods
+
+For a full online calculator, visit:  
+👉 [sgpa to percentage](https://sgpatopercent.com)
 
 ---
 
